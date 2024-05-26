@@ -1,0 +1,49 @@
+body{
+    background-color: aliceblue;
+}
+
+div{
+    margin: 20%;
+    margin-top: 0;   
+}
+
+h1{
+    text-align: center;
+    color: blue;
+
+}
+
+p{
+   color: rgb(30, 7, 102);
+   font-size: 200%;
+}
+
+input{
+    color: blue;
+    background-color: rgb(255, 255, 255);
+    background-size: 80%;
+    width: 60%;
+    height: 20%;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    align-self: center;
+    padding: 20px;
+    margin: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    box-shadow:  20px;;
+    border-radius: 10px;
+}
+
+#submit{
+    color: rgb(255, 255, 255);
+    padding: 2%;
+    margin-left: 45%;
+    margin-right: 50%;
+    font-size: 200%;
+    background-color:blue;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 3px solid blue;
+    
+}
